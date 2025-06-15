@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="60%" alt="Hello Coders" /><br>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" alt="Dev Working" /><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedEbrahimDev&style=flat&color=orange&label=PROFILE+VIEWS)
