@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" alt="Dev Working" /><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedEbrahimDev&style=flat&color=orange&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=AhmedEbrahimDev&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -19,10 +19,10 @@ Hi, I'm **Ahmed Ebrahim** — a passionate **Full-Stack Web Developer** and an a
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-004080?style=flat&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
